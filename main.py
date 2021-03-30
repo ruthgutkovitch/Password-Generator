@@ -26,6 +26,7 @@ def repeatCharacters():
     answer = input("Do you allow to repeat characters? True or False")
     return answer.strip()
 
+#users choise if use upper case,lowercase,digits,etc for thier password
 def generatePassword(choises_list, length):
     characters = []
     if choises_list[0] == 'True':
