@@ -7,5 +7,5 @@
 
 *Generates password from given sentence or by taking sentences from dictionary or by choosing random digits, letters and punctions.
 
-*the user can choose the length of their password. Also, there is an options to include digits or upper case letters, lower case letters and punctions.
+*The user can choose the length of their password. Also, there is an options to include digits or upper case letters, lower case letters and punctions.
 
